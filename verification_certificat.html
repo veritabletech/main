@@ -15,7 +15,7 @@ function applyModif(a)
 var query = {
   "v": 3,
   "q": {
-    "find": { "tx.h": prompt("Donne le hash stp") }
+    "find": { "tx.h": prompt("Rentrez le hash du certificat que vous voulez vérifier !") }
   },
   "r": {
     "f": "[ .[] | { data: .out[0]?.s3 }]"
