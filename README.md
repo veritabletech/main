@@ -15,7 +15,8 @@ Le fichier **database.py** parcourt toute la blockchain et récupère tous les c
 
 Le fichier **paiement.py** créer un certificat sur la blockchain.
 
-A la première exécution le script va vous demander une clé privée lui permettant de poster les certificats sur la blockchain.
+A la première exécution le script va vous demander une clé privée lui permettant de poster les certificats sur la blockchain.  
+En faisant cela il modifie son code pour inscrire la clé privée à la toute première ligne du script.
 
 Ensuite il faut l'exécuter avec 4 arguments:
 + L'identifiant de votre certificat
