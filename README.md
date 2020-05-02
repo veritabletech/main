@@ -3,9 +3,7 @@
 Voici différents scripts qui implémentent le protocole de veritable.tech.  
 L'objectif étant de permettre à chacun de rapidement implémenter sa solution sur notre protocole.
 
-### Page html vérifiant un certificat en faisant vérifiant directement sur la blockchain
-
-Le fichier **verification_certificat.html** vérifie un certificat hebergé sur la blockchain. Un hash d'un certificat est demandé. Voici un exemple de hash pour tester : **15d9f8bb3a5ed8408fbe019ce590bc303250a5263c8b9a6cd12356db543e2202**.
+Si vous voulez un site simplifié qui implémente notre protocole il faut aller sur 
 
 ### Création de la base de données
 
