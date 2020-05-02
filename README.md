@@ -3,7 +3,7 @@
 Voici différents scripts qui implémentent le protocole de veritable.tech.  
 L'objectif étant de permettre à chacun de rapidement implémenter sa solution sur notre protocole.
 
-Si vous voulez un site simplifié qui implémente notre protocole il faut aller sur 
+Si vous voulez un site simplifié qui implémente notre protocole il faut aller sur https://github.com/veritabletech/veritabletech.github.io
 
 ### Création de la base de données
 
